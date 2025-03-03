@@ -1,0 +1,6 @@
+./src/helpers.o:1: MAJOR:C-O1
+./src/main.o:1: MAJOR:C-O1
+./src/network.o:1: MAJOR:C-O1
+./src/player.o:1: MAJOR:C-O1
+./src/rendering.o:1: MAJOR:C-O1
+./src/thread.o:1: MAJOR:C-O1
